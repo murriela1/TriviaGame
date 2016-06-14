@@ -1,0 +1,108 @@
+body {
+    background-image: url("http://www.geeksaresexy.net/wp-content/uploads/2014/05/green-arrow-hawkeye.jpg");
+}
+
+#startButton {
+    font-size: 75px;
+    font: arial;
+    color: white;
+    background-color: purple;
+    text-align: center;
+
+}
+
+#timer {
+    font-size: 50px;
+    font: arial;
+    text-align: center;
+    color: yellow;
+} 
+
+ h1 {
+    font-size: 60px;
+    color: darkblue;
+    text-align: center;
+    font: arial;
+}
+
+h2 {
+    font-size: 60px;
+    color: darkblue;
+    text-align: center;
+    font:arial;
+
+}
+
+ul {
+    list-style: none;
+}
+li {
+    font-family: arial;
+    font-size: 2em;
+}
+input[type=radio] {
+    border: 0px;
+    width: 20px;
+    height: 2em;
+}
+p {
+    font-family: arial;
+}
+
+ .quizContainer {
+    background-color: transparent;
+    border-radius: 6px;
+    width: 50%;
+    margin: auto;
+    padding-top: 5px;
+    position: center;
+}
+.nextButton {
+    box-shadow: 3px 3px 5px #888;
+    border-radius: 6px;
+    width: 200px;
+    height: 40px;
+    text-align: center;
+    background-color: red;
+    color: blue;
+    font-family: arial;
+    font-size: 25px;
+    position: relative;
+    margin: auto;
+    padding-top: 10px;
+}
+.question {
+    font-family: arial;
+    font-size: 2em;
+    width: 90%;
+    height: auto;
+    margin: auto;
+    border-radius: 6px;
+    background-color: lightblue;
+    text-align: center;
+}
+.quizMessage {
+    background-color: red;
+    border-radius: 6px;
+    width: 30%;
+    margin: auto;
+    text-align: center;
+    padding: 2px;
+    font-family: arial;
+    color: yellow;
+}
+.choiceList {
+    font-family: arial;
+    color: orange;
+}
+.result {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    background-color: blue;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+}
+
+
